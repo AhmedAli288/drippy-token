@@ -1,4 +1,4 @@
-# Drippy Token (DRIPPY)
+# Drippy Token (DRPY)
 Project to launch DRIPPY token on XRPL with tax-based reflection using XRPL Hooks.
 
 - Token: DRIPPY
